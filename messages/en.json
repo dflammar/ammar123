@@ -1,0 +1,126 @@
+{
+    "nav": {
+        "home": "Home",
+        "services": "Services",
+        "portfolio": "Portfolio",
+        "blog": "Blog",
+        "contact": "Contact",
+        "getInTouch": "Get In Touch"
+    },
+    "hero": {
+        "greeting": "Hello, I'm",
+        "name": "Ammar Mahmoud Farghaly",
+        "title": "Senior Full-Stack Developer & Tech Entrepreneur",
+        "headline": "Crafting High-End Web Experiences & Scalable Digital Products",
+        "description": "I partner with businesses worldwide to build premium digital solutions that drive growth, streamline operations, and create exceptional user experiences.",
+        "cta": "View My Work",
+        "ctaSecondary": "Get In Touch"
+    },
+    "about": {
+        "sectionTitle": "About Me",
+        "sectionSubtitle": "Who I Am",
+        "title": "A Senior Web Developer & Your Trusted Tech Partner",
+        "description": "With years of experience in full-stack development, I specialize in creating elegant, high-performance web applications that solve real business problems. From startups to enterprise solutions, I bring technical expertise and a keen eye for design to every project.",
+        "experience": "Years of Experience",
+        "projects": "Projects Delivered",
+        "clients": "Happy Clients",
+        "technologies": "Technologies Mastered"
+    },
+    "services": {
+        "sectionTitle": "Services",
+        "sectionSubtitle": "What I Offer",
+        "title": "Comprehensive Digital Solutions",
+        "description": "From concept to deployment, I provide end-to-end digital services tailored to your business needs.",
+        "items": {
+            "webdev": {
+                "title": "Professional Web Design & Development",
+                "description": "Custom-built, responsive websites and web applications using cutting-edge technologies. From landing pages to complex platforms, every project is crafted for performance, aesthetics, and scalability."
+            },
+            "dashboards": {
+                "title": "Custom Internal Systems & Dashboards",
+                "description": "Streamline your operations with tailor-made internal tools, admin panels, and business dashboards that boost productivity and provide real-time insights."
+            },
+            "mobile": {
+                "title": "Mobile App Development",
+                "description": "Native and cross-platform mobile applications for iOS and Android. Engaging user interfaces with robust backend integration for seamless performance."
+            },
+            "email": {
+                "title": "Corporate Email Setup",
+                "description": "Professional email solutions with your domain. Full setup, configuration, and migration services to ensure your business communication is secure and reliable."
+            },
+            "maintenance": {
+                "title": "Maintenance, Support & SLAs",
+                "description": "Ongoing technical support, performance monitoring, security updates, and Service Level Agreements to keep your digital assets running smoothly 24/7."
+            },
+            "design": {
+                "title": "Graphic Design",
+                "description": "Eye-catching company profiles, social media graphics, brand identity design, and marketing materials that establish a strong visual presence for your brand."
+            },
+            "seo": {
+                "title": "SEO & Digital Marketing",
+                "description": "Data-driven search engine optimization and digital marketing strategies to increase your online visibility, drive organic traffic, and convert visitors into customers."
+            }
+        },
+        "learnMore": "Learn More"
+    },
+    "portfolio": {
+        "sectionTitle": "Portfolio",
+        "sectionSubtitle": "My Work",
+        "title": "Featured Projects",
+        "description": "A selection of projects that showcase my expertise in building scalable, high-performance digital solutions.",
+        "viewProject": "View Project",
+        "allCategories": "All",
+        "categories": {
+            "web": "Web Development",
+            "mobile": "Mobile Apps",
+            "dashboard": "Dashboards",
+            "design": "Design"
+        }
+    },
+    "blog": {
+        "sectionTitle": "Blog",
+        "sectionSubtitle": "Insights & Articles",
+        "title": "Latest Articles",
+        "description": "Thoughts, tutorials, and insights on web development, technology trends, and digital innovation.",
+        "readMore": "Read More",
+        "minRead": "min read",
+        "noPosts": "No articles available yet. Check back soon!",
+        "backToBlog": "Back to Blog"
+    },
+    "contact": {
+        "sectionTitle": "Contact",
+        "sectionSubtitle": "Get In Touch",
+        "title": "Let's Work Together",
+        "description": "Have a project in mind or want to discuss a partnership? I'd love to hear from you. Reach out through any of the channels below.",
+        "form": {
+            "name": "Your Name",
+            "email": "Your Email",
+            "subject": "Subject",
+            "message": "Your Message",
+            "send": "Send Message",
+            "sending": "Sending...",
+            "success": "Message sent successfully! I'll get back to you soon.",
+            "error": "Something went wrong. Please try again."
+        },
+        "info": {
+            "email": "Email",
+            "whatsapp": "WhatsApp",
+            "location": "Location",
+            "locationValue": "Egypt"
+        },
+        "social": {
+            "title": "Follow Me"
+        }
+    },
+    "footer": {
+        "description": "Senior Full-Stack Developer crafting premium digital experiences for businesses worldwide.",
+        "quickLinks": "Quick Links",
+        "services": "Services",
+        "connect": "Connect",
+        "rights": "All rights reserved.",
+        "madeWith": "Made with"
+    },
+    "common": {
+        "scrollDown": "Scroll Down"
+    }
+}

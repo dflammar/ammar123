@@ -1,0 +1,91 @@
+{
+    "projects": [
+        {
+            "id": "1",
+            "title": "E-Commerce Platform",
+            "titleAr": "منصة تجارة إلكترونية",
+            "category": "web",
+            "image": "https://images.unsplash.com/photo-1661956602116-aa6865609028?w=600&h=400&fit=crop",
+            "techStack": [
+                "Next.js",
+                "TypeScript",
+                "Stripe",
+                "PostgreSQL"
+            ],
+            "link": "",
+            "createdAt": "2025-12-01"
+        },
+        {
+            "id": "2",
+            "title": "Restaurant Management System",
+            "titleAr": "نظام إدارة المطاعم",
+            "category": "dashboard",
+            "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop",
+            "techStack": [
+                "React",
+                "Node.js",
+                "MongoDB",
+                "Socket.io"
+            ],
+            "link": "",
+            "createdAt": "2025-11-15"
+        },
+        {
+            "id": "3",
+            "title": "Fitness Tracking App",
+            "titleAr": "تطبيق تتبع اللياقة",
+            "category": "mobile",
+            "image": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?w=600&h=400&fit=crop",
+            "techStack": [
+                "React Native",
+                "Firebase",
+                "Redux"
+            ],
+            "link": "",
+            "createdAt": "2025-10-20"
+        },
+        {
+            "id": "4",
+            "title": "Corporate Website Redesign",
+            "titleAr": "إعادة تصميم موقع شركة",
+            "category": "web",
+            "image": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=600&h=400&fit=crop",
+            "techStack": [
+                "Next.js",
+                "Tailwind CSS",
+                "Framer Motion"
+            ],
+            "link": "",
+            "createdAt": "2025-09-10"
+        },
+        {
+            "id": "5",
+            "title": "HR Dashboard",
+            "titleAr": "لوحة تحكم الموارد البشرية",
+            "category": "dashboard",
+            "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop",
+            "techStack": [
+                "Vue.js",
+                "Express",
+                "PostgreSQL",
+                "Chart.js"
+            ],
+            "link": "",
+            "createdAt": "2025-08-05"
+        },
+        {
+            "id": "6",
+            "title": "Brand Identity Design",
+            "titleAr": "تصميم هوية العلامة التجارية",
+            "category": "design",
+            "image": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=600&h=400&fit=crop",
+            "techStack": [
+                "Figma",
+                "Illustrator",
+                "Photoshop"
+            ],
+            "link": "",
+            "createdAt": "2025-07-01"
+        }
+    ]
+}
